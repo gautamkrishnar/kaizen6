@@ -598,7 +598,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar-brand img {
-  width: 75%;
+  width: auto;
+  padding:15px 15px;
+  height:100%;
 }
 
 .top-nav-collapse {
@@ -654,7 +656,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   content: '';
   position: absolute;
   top: 0;
-  left: 0%;
+  left: 50%;
   margin-left: -10px;
   width: 15px;
   height: 2px;
@@ -830,7 +832,7 @@ a.back-to-top:hover, a.back-to-top:focus {
     top: 0;
   }
   .navbar-brand img {
-    width: 75%;
+    width: 40%;
   }
   #mobile-menu {
     display: none;
