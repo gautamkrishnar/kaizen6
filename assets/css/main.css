@@ -1593,6 +1593,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin-bottom: 5px;
   font-weight: 1000;
   background: #333333;
+  opacity: 0.6;
   text-transform: uppercase;
 }
 
